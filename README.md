@@ -18,6 +18,8 @@ Will you dodge these thoughts, or will you push through and break them with resi
 - Move left and right to avoid negative thoughts.
 - If your determination is strong enough, you can break through them.
 - Keep going and see how far you can push yourself.
+<img width="482" alt="Screenshot 2025-03-10 at 01 46 59" src="https://github.com/user-attachments/assets/3fa802af-e675-4c9b-8adc-4e6ca2de4ad6" />
+
 
 ---
 
