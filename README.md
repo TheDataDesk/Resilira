@@ -31,7 +31,7 @@ Will you dodge these thoughts, or will you push through and break them with resi
 4. If you see a security warning, go to **System Preferences → Security & Privacy → General** and click **"Allow Anyway"**.
 5. Once allowed, open the game and start playing.
 
-### For Windows Users (if available)
+### For Windows Users 
 1. Download the game and unzip the file.
 2. Locate `Resilira.exe` in the extracted folder.
 3. Double-click to run the game.
